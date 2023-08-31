@@ -1,7 +1,8 @@
 # Welcome to the Syntho Unity GitHub Profile!
 
 
-![Frame 1 (1)](https://github.com/synthounity/.github/assets/115560200/d24014ff-9b0a-483a-a9bc-995b1675513b)
+
+![Frame 1 (2)](https://github.com/synthounity/.github/assets/115560200/60480a36-189b-4d47-a32d-077ddd99a177)
 
 ## About Us
 
@@ -30,4 +31,23 @@ We're always open to collaboration, feedback, and new opportunities. If you're i
 
 Stay tuned for more exciting projects and updates from the Syntho Unity team!
 
+
+
+
+
+
+
+
+
+|![Frame 6 (2)](https://github.com/synthounity/.github/assets/115560200/c0e54346-156e-43ff-a8a2-0422147715f9) | ![Abdearrahman](https://abdearrahman-image-url.com) | ![Mostafa](https://mostafa-image-url.com) | ![Abdealhkim](https://abdealhkim-image-url.com) |
+|:----------------------------------------:|:----------------------------------------------:|:---------------------------------------:|:------------------------------------------:|
+| **Tchisama** - Web Developer & Designer       | **Abdearrahman** - Web Developer & Teacher         | **Mostafa** - Content Creator & WP Developer | **Abdealhkim** - Mockup Designer              |
+
+Tchisama is our skilled Web Developer and Designer. With a keen eye for aesthetics and a deep understanding of web technologies, Tchiama brings designs to life, creating visually stunning and user-friendly websites that leave a lasting impression.
+
+Abdearrahman is not only a talented Web Developer but also a dedicated Teacher. With a passion for sharing knowledge, Abdearrahman ensures that the team stays updated with the latest industry trends while crafting remarkable web solutions.
+
+Mostafa's expertise lies in content creation and WordPress development. His creative approach to storytelling and his knack for WordPress intricacies result in engaging websites that seamlessly marry content and functionality.
+
+Abdealhkim is our Mockup Designer with a unique twist – he specializes in creating designs specifically tailored for printing on clothes and various products. His artistic prowess adds an extra layer of creativity to our projects, making them stand out in style.
 
