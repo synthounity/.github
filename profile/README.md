@@ -30,4 +30,4 @@ We're always open to collaboration, feedback, and new opportunities. If you're i
 
 Stay tuned for more exciting projects and updates from the Syntho Unity team!
 
-*"Crafting Digital Experiences, Uniting Technology and Creativity."*
+
