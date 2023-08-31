@@ -16,8 +16,8 @@ At Syntho Unity, we're dedicated to crafting websites that not only meet but exc
 Our team's expertise encompasses a wide range of technologies and tools, including:
 
 - **Frontend Development:** We're skilled in HTML5, CSS3, and JavaScript to create dynamic and engaging user interfaces.
-- **Modern Frameworks:** We use frameworks like React Vue.js as well as php to build efficient and maintainable frontends.
-- **Backend Development:** Our backend proficiency includes Node.js, Python, Ruby on Rails, and more, ensuring seamless data management and server-side operations.
+- **Modern Frameworks:** We use frameworks like React Vue.js to build efficient and maintainable frontends.
+- **Backend Development:** Our backend proficiency includes php , Node.js, Python, and more, ensuring seamless data management and server-side operations.
 - **Database Management:** We're experienced in working with databases like MySQL, PostgreSQL, MongoDB, and more, to handle data effectively.
 - **Responsive Design:** Ensuring optimal user experiences across various devices through responsive and mobile-first design approaches.
 - **UI/UX Design:** We believe that user experience is paramount. Our designs are intuitive, user-centric, and visually appealing.
